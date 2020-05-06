@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    &lt;pre&gt;:root{--btn-primary-color:#cf3b27}@font-face{font-family:ProximaNovaRegular;src:url("https://fonts.zohostatic.com/proximanova/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot");src:url("https://fonts.zohostatic.com/proximanova/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot?#iefix")
+    format("embedded-opentype"),url("https://fonts.zohostatic.com/proximanova/proximanova_regular_macroman/ProximaNova-Reg-webfont.woff")
+    format("woff"),url("https://fonts.zohostatic.com/proximanova/proximanova_regular_macroman/ProximaNova-Reg-webfont.ttf")
+    format("truetype");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:ProximaNovaLight;src:url("https://fonts.zohostatic.com/proximanova/proximanova_light_macroman/ProximaNova-Light-webfont.eot");src:url("https://fonts.zohostatic.com/proximanova/proximanova_light_macroman/ProximaNova-Light-webfont.eot?#iefix")
+    format("embedded-opentype"),url("https://fonts.zohostatic.com/proximanova/proximanova_light_macroman/ProximaNova-Light-webfont.woff")
+    format("woff"),url("https://fonts.zohostatic.com/proximanova/proximanova_light_macroman/ProximaNova-Light-webfont.ttf")
+    format("truetype");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:ProximaNovaThin;src:url("https://fonts.zohostatic.com/proximanova/proximanova_thin_macroman/ProximaNova-Thin-webfont.eot");src:url("https://fonts.zohostatic.com/proximanova/proximanova_thin_macroman/ProximaNova-Thin-webfont.eot?#iefix")
+    format("embedded-opentype"),url("https://fonts.zohostatic.com/proximanova/proximanova_thin_macroman/ProximaNova-Thin-webfont.woff")
+    format("woff"),url("https://fonts.zohostatic.com/proximanova/proximanova_thin_macroman/ProximaNova-Thin-webfont.ttf")
+    format("truetype");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:ProximaNovaLtSemibold;src:url("https://fonts.zohostatic.com/proximanova/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.eot");src:url("https://fonts.zohostatic.com/proximanova/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.eot?#iefix")
+    format("embedded-opentype"),url("https://fonts.zohostatic.com/proximanova/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.woff")
+    format("woff"),url("https://fonts.zohostatic.com/proximanova/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.ttf")
+    format("truetype");font-weight:400;font-style:normal;font-display:swap}
+    b,strong{font-weight:bolder}h3,h4{font-family:ProximaNovaLight,ProximaNovaRegular,Arial,sans-serif}html{overflow:hidden}
+body{-webkit-text-size-adjust:100%;font-size:13px;background-color:#fff;font-family:ProximaNovaRegular,Helvetica,Arial,sans-serif;font-size:15px}:root{--theme-color:#cf3b27;--plan-width:30%}*,:after,:before{box-sizing:border-box}.btn{cursor:pointer;border:1px
+    solid;padding:6px 12px;text-decoration:none;font-weight:500}
+    .pricing-table .plan-block:last-child{margin-right:0}
+    .plan-block{-ms-flex:1 0 auto;flex:1 0 auto;border:1px solid
+    #eee;background:#fff;text-align:center;margin-left:-1px;width:100%}
+    .plan-block
+    h3{color:#7952b3;color:var(--theme-color);font-size:18px;font-weight:600;line-height:26px;padding:20px
+    0 0;text-transform:uppercase;margin-bottom:10px;height:75px}
+    .plan-block .main-price{padding:0 10% 30px}
+    p{color:#333;font-size:14px;font-weight:400;line-height:22px;margin:0}
+    .solo-template-container .inner-div{height:50px;border-bottom:1px solid
+    #7952b3;border-bottom:1px solid
+    var(--theme-color);padding-left:250px;padding-top:15px}
+    .row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}
+    .combo
+    .plan-name{font-size:18px;font-weight:700;margin-bottom:5px;color:#7952b3;color:var(--theme-color)}
+.elegant,.elegant
+    .plan-item{display:-ms-flexbox;display:flex}.elegant
+    .plan-item{float:left;max-width:335px;width:30%;width:var(--plan-width)}
+    .plan-block
+    .plan-name{color:#7952b3;color:var(--theme-color);font-size:14px;font-weight:400;line-height:26px;padding:25px
+    0 0;text-transform:uppercase;margin-bottom:10px;height:100px}
+    .frequency-dropown{display:none}@media screen and (max-width:1024px){}@media
+    screen and (max-width:767px){
+    .elegant .plan-item{float:none;width:100%;margin:15px auto}.elegant
+    .plan-item .elegant-pro-popular,.elegant .plan-item
+    .popular{margin-top:40px}}@media screen and (max-width:480px){
+    .combo&amp;gt;div{-ms-flex:0 0 100%;flex:0 0
+    100%;padding:10px!important;text-align:center}
+    .frequency-dropown{display:block;position:relative;max-width:336px;margin:auto}.dd-header{border:1px
+    solid #7952b3;border:1px solid
+    var(--theme-color);display:-ms-flexbox;display:flex;position:relative;-ms-flex-pack:justify;justify-content:space-between;padding:10px}.dd-header-title{width:90%}
+.line-arrow{width:8px;height:8px;display:inline-block;background-image:url('data:image/svg+xml;utf8,&amp;lt;svg
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432.5
+    280.2"&amp;gt;&amp;lt;path d="M415.5 26.4c-15.6-15.6-40.9-15.6-56.6 0L216.3
+    169 73.6 26.4C58 10.7 32.7 10.7 17 26.4S1.4 67.3 17 82.9l171 171c7.8 7.8 18
+    11.7 28.3 11.7 10.2 0 20.5-3.9 28.3-11.7l170.9-171c15.6-15.6 15.6-40.9
+    0-56.5z"
+fill="#1d1d1b"/&amp;gt;&amp;lt;/svg&amp;gt;');margin-right:15px;margin-top:5px;position:relative;z-index:1;background-repeat:no-repeat}}&lt;/pre&gt;</body>
+</html>

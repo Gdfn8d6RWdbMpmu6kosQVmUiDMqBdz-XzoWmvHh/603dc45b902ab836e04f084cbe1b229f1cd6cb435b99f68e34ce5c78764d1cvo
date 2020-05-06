@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /price.html
+
+Sitemap: https://canadavirtualoffice.com/sitemap.xml
