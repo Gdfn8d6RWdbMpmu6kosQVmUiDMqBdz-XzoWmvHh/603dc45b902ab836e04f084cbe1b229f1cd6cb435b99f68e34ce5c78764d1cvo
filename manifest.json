@@ -1,11 +1,11 @@
 {
 	"dir" : "ltr",
-	"lang" : "en-US",
-	"name" : "Canada Virtual Office",
+	"lang" : "English",
+	"name" : "Toronto Virtual Office",
 	"scope" : "/",
 	"display" : "standalone",
 	"start_url" : "https://canadavirtualoffice.com/",
-	"short_name" : "Toronto Virtual Office",
+	"short_name" : "Canada Virtual Office",
 	"theme_color" : "transparent",
 	"description" : "Best Toronto Virtual Office & Virtual Business Address Service - We will get everything done for you through our Virtual Office services in Toronto.",
 	"orientation" : "any",
@@ -13,10 +13,6 @@
 	"related_applications" : [],
 	"prefer_related_applications" : false,
 	"icons" : [
-		{
-			"src": "https://canadavirtualoffice.com/assets/favicon.jpg",
-			"sizes": "16x16"
-		},
 		{
 			"src": "[Embedded]",
 			"sizes": "44x44"
@@ -95,5 +91,5 @@
 		}],
 	"url" : "https://canadavirtualoffice.com",
 	"screenshots" : [],
-	"generated" : "true"
+	"generated" : ""
 }
