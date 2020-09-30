@@ -1,6 +1,6 @@
 <script src="https://js.stripe.com/v3"></script>
 <script>
-    stripe.redirectToCheckout({
+    redirectToCheckout({
       items: [{plan: 'plan_FSX1GA4AJagQxY', quantity: 1}],
       successUrl: window.location.protocol + '//sites.google.com/view/canada-virtual-office/voicemail-to-email/configure',
       cancelUrl: window.location.protocol + '//canadavirtualoffice.com/canceled',
