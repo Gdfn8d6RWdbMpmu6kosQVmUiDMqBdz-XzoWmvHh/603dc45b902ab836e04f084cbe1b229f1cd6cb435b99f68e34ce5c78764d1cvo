@@ -1,6 +1,7 @@
 <script src="https://js.stripe.com/v3"></script>
 <script>
-    redirectToCheckout({
+    var stripe = Stripe('pk_live_M30hB0WwOR3wxQjI4AlwQYKj00xnZuYVYN');
+    stripe.redirectToCheckout({
       items: [{plan: 'plan_FSX1GA4AJagQxY', quantity: 1}],
       successUrl: window.location.protocol + '//sites.google.com/view/canada-virtual-office/voicemail-to-email/configure',
       cancelUrl: window.location.protocol + '//canadavirtualoffice.com/canceled',
@@ -10,8 +11,6 @@
     })
     .then(function (result) {
       if (result.error) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer.
         var displayError = document.getElementById('error-message');
         displayError.textContent = result.error.message;
       }
