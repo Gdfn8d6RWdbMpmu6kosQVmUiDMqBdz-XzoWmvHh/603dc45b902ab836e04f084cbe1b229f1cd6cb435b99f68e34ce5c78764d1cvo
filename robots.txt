@@ -4,6 +4,7 @@ Disallow: /price.html
 Disallow: /peelcounty1859.html
 Disallow: /offline.html
 Disallow: /canceled.html
+Disallow: /notrial.html
 
 
 Sitemap: https://canadavirtualoffice.com/sitemap.xml
